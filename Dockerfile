@@ -7,6 +7,7 @@ RUN apt-get update && \
       dnsutils \
       iputils-ping \
       nano \
-      netcat \
-      ssh
+      netcat-traditional \
+      ssh \
+      telnet
 
